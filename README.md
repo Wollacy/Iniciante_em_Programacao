@@ -1,6 +1,2 @@
-# Olá; mundo!
- Primeiro repositório de git e gitHub
-
-Repositório criado durante aula ao vivo.
-
-Linha adicionada remotamente!
+# Iniciante!
+ Meu primeiro repositório. Utilizado para o curso de formação "Iniciante em programação".
