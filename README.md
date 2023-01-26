@@ -1,6 +1,6 @@
-# Iniciante_em_Programacao
-<h1 align="center"> Projetos Iniciante da Programação </h1>
-<p>Todos os projetos relacionados a formação "Iniciante em programação", realizado pela Alura</p>
+# Projetos de Estudo
+<h1 align="center"> Projetos Feitos durante Curso </h1>
+<p>Todos os projetos relacionados a formações realizada pela Alura</p>
 
 
 ![Desenvolvedor](https://user-images.githubusercontent.com/47800346/194912632-ef42915f-45fb-4e6b-b301-e3e4eff0d88b.jpeg)
