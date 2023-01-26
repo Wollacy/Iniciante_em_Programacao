@@ -1,5 +1,5 @@
 # Projetos de Estudo
-<h1 align="center"> Projetos Feitos durante Curso </h1>
+<h1 align="center"> Projetos Feitos Durante Curso </h1>
 <p>Todos os projetos relacionados a formações realizada pela Alura</p>
 
 
